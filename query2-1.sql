@@ -1,0 +1,1 @@
+SELECT * FROM room WHERE capacity>=100;
